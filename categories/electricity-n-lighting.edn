@@ -1,0 +1,12 @@
+
+{:electricity-n-lighting
+ {:en-en "Electricity and Lighting"
+  :hu-hu "Elektromosság és világítás"}
+
+ :hv-electrical-system
+ {:en-en "High Voltage Electrical System"
+  :hu-hu "Erősáramú elektromos rendszer"}
+
+ :lv-electrical-system
+ {:en-en "Low Voltage Electrical System"
+  :hu-hu "Gyengeáramú elektromos rendszer"}}
