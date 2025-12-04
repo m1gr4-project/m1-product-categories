@@ -1,0 +1,11 @@
+
+{:brands
+ {:label {:en-gb "Brands"
+          :hu-hu "Márkák"}}
+
+ :products
+ {:label {:en-gb "Products"
+          :hu-hu "Termékek"}}
+ :spare-parts
+ {:label {:en-gb "Spare Parts"
+          :hu-hu "Alkatrészek"}}}
