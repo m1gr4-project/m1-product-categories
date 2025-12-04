@@ -1,5 +1,5 @@
-{
- :alarms-n-sensors
+
+{:alarms-n-sensors
  {:en-gb "Alarms and Sensors"
   :hu-hu "Riasztók és érzékelők"}
 
