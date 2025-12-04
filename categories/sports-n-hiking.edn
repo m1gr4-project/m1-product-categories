@@ -1,8 +1,8 @@
 {
  :sports-n-hiking
- {:en-en "Sports and Hiking"
+ {:en-gb "Sports and Hiking"
   :hu-hu "Sport és túrázás"}
 
  :water-purification
- {:en-en "Water Purification"
+ {:en-gb "Water Purification"
   :hu-hu "Víztisztítás"}}

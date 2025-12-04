@@ -1,24 +1,24 @@
 {
  :camping-household
- {:en-en "Camping Household"
+ {:en-gb "Camping Household"
   :hu-hu "Kempingháztartás"}
 
  :cleaning-n-maintenance
- {:en-en "Cleaning and Maintenance"
+ {:en-gb "Cleaning and Maintenance"
   :hu-hu "Takarítás és karbantartás"}
 
  :cutlery
- {:en-en "Cutlery"
+ {:en-gb "Cutlery"
   :hu-hu "Evőeszközök"}
 
  :dehumidification
- {:en-en "Dehumidification"
+ {:en-gb "Dehumidification"
   :hu-hu "Párátlanítás"}
 
  :pots-n-pans
- {:en-en "Pots and Pans"
+ {:en-gb "Pots and Pans"
   :hu-hu "Edények és serpenyők"}
 
  :washing-n-drying
- {:en-en "Washing and Drying"
+ {:en-gb "Washing and Drying"
   :hu-hu "Mosás és szárítás"}}

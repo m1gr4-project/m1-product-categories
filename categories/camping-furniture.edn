@@ -1,20 +1,20 @@
 {
  :cabinets
- {:en-en "Cabinets"
+ {:en-gb "Cabinets"
   :hu-hu "Szekrények"}
 
  :camping-furniture
- {:en-en "Camping Furniture"
+ {:en-gb "Camping Furniture"
   :hu-hu "Kempingbútorok"}
 
  :chairs
- {:en-en "Chairs"
+ {:en-gb "Chairs"
   :hu-hu "Székek"}
 
  :childrens-furniture
- {:en-en "Childrens Furniture"
+ {:en-gb "Childrens Furniture"
   :hu-hu "Gyerekbútorok"}
 
  :tables
- {:en-en "Tables"
+ {:en-gb "Tables"
   :hu-hu "Asztalok"}}
