@@ -11,12 +11,12 @@
  {:en-gb "Drainage Systems"
   :hu-hu "Lefolyórendszerek"}
 
- :faucet-ceramic-inserts
- {:en-gb "Faucet Ceramic Inserts"
+ :tap-ceramic-inserts
+ {:en-gb "Tap Ceramic Inserts"
   :hu-hu "Csaptelep kerámiabetétek"}
 
- :faucets
- {:en-gb "Faucets"
+ :taps
+ {:en-gb "Taps"
   :hu-hu "Csaptelepek"}
 
  :frost-protection

@@ -55,8 +55,8 @@
  {:en-gb "Support Legs"
   :hu-hu "Támasztólábak"}
 
- :tires
- {:en-gb "Tires"
+ :tyres
+ {:en-gb "Tyres"
   :hu-hu "Gumiabroncsok"}
 
  :tool-boxes
@@ -111,8 +111,8 @@
  {:en-gb "Wheel Rims"
   :hu-hu "Felnik (keréktárcsák)"}
 
- :wheels-n-tires
- {:en-gb "Wheels and Tires"
+ :wheels-n-tyres
+ {:en-gb "Wheels and Tyres"
   :hu-hu "Kerekek és gumiabroncsok"}
 
  :winches

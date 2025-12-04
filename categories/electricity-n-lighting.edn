@@ -63,8 +63,8 @@
  {:en-gb "Exterior Lighting"
   :hu-hu "Kültéri világítás"}
 
- :flashlights
- {:en-gb "Flashlights"
+ :torches
+ {:en-gb "Torches"
   :hu-hu "Zseblámpák"}
 
  :fog-lamps
