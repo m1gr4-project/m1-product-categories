@@ -1,56 +1,56 @@
 
 {:beach-accessories
- {:en-gb "Beach Accessories"
-  :hu-hu "Strand kellékek"}
+ {:label {:en-gb "Beach Accessories"
+          :hu-hu "Strand kellékek"}}
 
  :beach-blankets
- {:en-gb "Beach Blankets"
-  :hu-hu "Strandplédek"}
+ {:label {:en-gb "Beach Blankets"
+          :hu-hu "Strandplédek"}}
 
  :beach-carts
- {:en-gb "Beach Carts"
-  :hu-hu "Strandkocsik"}
+ {:label {:en-gb "Beach Carts"
+          :hu-hu "Strandkocsik"}}
 
  :beach-chairs
- {:en-gb "Beach Chairs"
-  :hu-hu "Strandszékek"}
+ {:label {:en-gb "Beach Chairs"
+          :hu-hu "Strandszékek"}}
 
  :beach-n-play
- {:en-gb "Beach and Play"
-  :hu-hu "Strand és játék"}
+ {:label {:en-gb "Beach and Play"
+          :hu-hu "Strand és játék"}}
 
  :beach-tents
- {:en-gb "Beach Tents"
-  :hu-hu "Strandsátrak"}
+ {:label {:en-gb "Beach Tents"
+          :hu-hu "Strandsátrak"}}
 
  :beach-toys
- {:en-gb "Beach Toys"
-  :hu-hu "Strandjátékok"}
+ {:label {:en-gb "Beach Toys"
+          :hu-hu "Strandjátékok"}}
 
  :inflatable-boats
- {:en-gb "Inflatable Boats"
-  :hu-hu "Felfújható csónakok"}
+ {:label {:en-gb "Inflatable Boats"
+          :hu-hu "Felfújható csónakok"}}
 
  :inflatable-mattresses
- {:en-gb "Inflatable Mattresses"
-  :hu-hu "Felfújható matracok"}
+ {:label {:en-gb "Inflatable Mattresses"
+          :hu-hu "Felfújható matracok"}}
 
  :inflatable-pools
- {:en-gb "Inflatable Pools"
-  :hu-hu "Felfújható medencék"}
+ {:label {:en-gb "Inflatable Pools"
+          :hu-hu "Felfújható medencék"}}
 
  :inflatable-products
- {:en-gb "Inflatable Products"
-  :hu-hu "Felfújható termékek"}
+ {:label {:en-gb "Inflatable Products"
+          :hu-hu "Felfújható termékek"}}
 
  :inflatable-toys
- {:en-gb "Inflatable Toys"
-  :hu-hu "Felfújható játékok"}
+ {:label {:en-gb "Inflatable Toys"
+          :hu-hu "Felfújható játékok"}}
 
  :parasols-n-windbreaks
- {:en-gb "Parasols and Windbreaks"
-  :hu-hu "Napernyők és szélfogók"}
+ {:label {:en-gb "Parasols and Windbreaks"
+          :hu-hu "Napernyők és szélfogók"}}
 
  :pumps-n-compressors
- {:en-gb "Pumps and Compressors"
-  :hu-hu "Pumpák és kompresszorok"}}
+ {:label {:en-gb "Pumps and Compressors"
+          :hu-hu "Pumpák és kompresszorok"}}}

@@ -1,60 +1,60 @@
 
 {:car-audio-accessories
- {:en-gb "Car Audio Accessories"
-  :hu-hu "Autóhifi tartozékok"}
+ {:label {:en-gb "Car Audio Accessories"
+          :hu-hu "Autóhifi tartozékok"}}
 
  :car-audio-head-units
- {:en-gb "Car Audio Head Units"
-  :hu-hu "Autóhifi fejegységek"}
+ {:label {:en-gb "Car Audio Head Units"
+          :hu-hu "Autóhifi fejegységek"}}
 
  :car-audio-n-navigation
- {:en-gb "Car Audio and Navigation"
-  :hu-hu "Autóhifi és navigáció"}
+ {:label {:en-gb "Car Audio and Navigation"
+          :hu-hu "Autóhifi és navigáció"}}
 
  :electronics-n-multimedia
- {:en-gb "Electronics and Multimedia"
-  :hu-hu "Műszaki cikk és multimédia"}
+ {:label {:en-gb "Electronics and Multimedia"
+          :hu-hu "Műszaki cikk és multimédia"}}
 
  :household-appliances
- {:en-gb "Household Appliances"
-  :hu-hu "Háztartási gépek"}
+ {:label {:en-gb "Household Appliances"
+          :hu-hu "Háztartási gépek"}}
 
  :navigation-accessories
- {:en-gb "Navigation Accessories"
-  :hu-hu "Navigációs tartozékok"}
+ {:label {:en-gb "Navigation Accessories"
+          :hu-hu "Navigációs tartozékok"}}
 
  :navigation-devices
- {:en-gb "Navigation Devices"
-  :hu-hu "Navigációs készülékek"}
+ {:label {:en-gb "Navigation Devices"
+          :hu-hu "Navigációs készülékek"}}
 
  :satellite-accessories
- {:en-gb "Satellite Accessories"
-  :hu-hu "Műholdvevő tartozékok"}
+ {:label {:en-gb "Satellite Accessories"
+          :hu-hu "Műholdvevő tartozékok"}}
 
  :satellite-antennas
- {:en-gb "Satellite Antennas"
-  :hu-hu "Műholdvevő antennák"}
+ {:label {:en-gb "Satellite Antennas"
+          :hu-hu "Műholdvevő antennák"}}
 
  :satellite-receiver-kits
- {:en-gb "Satellite Receiver Kits"
-  :hu-hu "Műholdvevő szettek"}
+ {:label {:en-gb "Satellite Receiver Kits"
+          :hu-hu "Műholdvevő szettek"}}
 
  :satellite-systems
- {:en-gb "Satellite Systems"
-  :hu-hu "Műholdas rendszerek"}
+ {:label {:en-gb "Satellite Systems"
+          :hu-hu "Műholdas rendszerek"}}
 
  :tv-devices
- {:en-gb "TV Devices"
-  :hu-hu "TV készülékek"}
+ {:label {:en-gb "TV Devices"
+          :hu-hu "TV készülékek"}}
 
  :tv-mounts
- {:en-gb "TV Mounts"
-  :hu-hu "TV tartók (konzolok)"}
+ {:label {:en-gb "TV Mounts"
+          :hu-hu "TV tartók (konzolok)"}}
 
  :tv-n-audio
- {:en-gb "TV and Audio"
-  :hu-hu "TV és audió"}
+ {:label {:en-gb "TV and Audio"
+          :hu-hu "TV és audió"}}
 
  :tv-speakers
- {:en-gb "TV Speakers"
-  :hu-hu "TV hangszórók"}}
+ {:label {:en-gb "TV Speakers"
+          :hu-hu "TV hangszórók"}}}

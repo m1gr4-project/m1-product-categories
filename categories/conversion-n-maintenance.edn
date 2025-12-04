@@ -1,12 +1,12 @@
 
 {:conversion-n-maintenance
- {:en-gb "Conversion and Maintenance"
-  :hu-hu "Építés és karbantartás"}
+ {:label {:en-gb "Conversion and Maintenance"
+          :hu-hu "Építés és karbantartás"}}
 
  :sealants-n-adhesives
- {:en-gb "Sealants and Adhesives"
-  :hu-hu "Tömítő- és ragasztóanyagok"}
+ {:label {:en-gb "Sealants and Adhesives"
+          :hu-hu "Tömítő- és ragasztóanyagok"}}
 
  :van-conversion
- {:en-gb "Van Conversion"
-  :hu-hu "Furgon átalakítás"}}
+ {:label {:en-gb "Van Conversion"
+          :hu-hu "Furgon átalakítás"}}}

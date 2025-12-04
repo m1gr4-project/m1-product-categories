@@ -1,184 +1,184 @@
 
 {:additional-brake-lamps
- {:en-gb "Additional Brake Lamps"
-  :hu-hu "Kiegészítő féklámpák"}
+ {:label {:en-gb "Additional Brake Lamps"
+          :hu-hu "Kiegészítő féklámpák"}}
 
  :alkaline-n-rechargeable-cells
- {:en-gb "Alkaline and Rechargeable Cells"
-  :hu-hu "Alkáli és újratölthető elemek"}
+ {:label {:en-gb "Alkaline and Rechargeable Cells"
+          :hu-hu "Alkáli és újratölthető elemek"}}
 
  :batteries
- {:en-gb "Batteries"
-  :hu-hu "Akkumulátorok"}
+ {:label {:en-gb "Batteries"
+          :hu-hu "Akkumulátorok"}}
 
  :battery-accessories
- {:en-gb "Battery Accessories"
-  :hu-hu "Akkumulátor tartozékok"}
+ {:label {:en-gb "Battery Accessories"
+          :hu-hu "Akkumulátor tartozékok"}}
 
  :battery-chargers
- {:en-gb "Battery Chargers"
-  :hu-hu "Akkumulátortöltők"}
+ {:label {:en-gb "Battery Chargers"
+          :hu-hu "Akkumulátortöltők"}}
 
  :bulb-sets
- {:en-gb "Bulb Sets"
-  :hu-hu "Izzókészletek"}
+ {:label {:en-gb "Bulb Sets"
+          :hu-hu "Izzókészletek"}}
 
  :bulbs
- {:en-gb "Bulbs"
-  :hu-hu "Izzók"}
+ {:label {:en-gb "Bulbs"
+          :hu-hu "Izzók"}}
 
  :cables-n-wires
- {:en-gb "Cables and Wires"
-  :hu-hu "Kábelek és vezetékek"}
+ {:label {:en-gb "Cables and Wires"
+          :hu-hu "Kábelek és vezetékek"}}
 
  :camping-lamps
- {:en-gb "Camping Lamps"
-  :hu-hu "Kempinglámpák"}
+ {:label {:en-gb "Camping Lamps"
+          :hu-hu "Kempinglámpák"}}
 
  :cigarette-lighter-sockets
- {:en-gb "Cigarette Lighter Sockets"
-  :hu-hu "Szivargyújtó aljzatok"}
+ {:label {:en-gb "Cigarette Lighter Sockets"
+          :hu-hu "Szivargyújtó aljzatok"}}
 
  :connectors-n-adapters
- {:en-gb "Connectors and Adapters"
-  :hu-hu "Csatlakozók és adapterek"}
+ {:label {:en-gb "Connectors and Adapters"
+          :hu-hu "Csatlakozók és adapterek"}}
 
  :daytime-running-lamps
- {:en-gb "Daytime Running Lamps"
-  :hu-hu "Nappali menetfény lámpák"}
+ {:label {:en-gb "Daytime Running Lamps"
+          :hu-hu "Nappali menetfény lámpák"}}
 
  :electrical-connection
- {:en-gb "Electrical Connection"
-  :hu-hu "Elektromos csatlakozás"}
+ {:label {:en-gb "Electrical Connection"
+          :hu-hu "Elektromos csatlakozás"}}
 
  :electricity-n-lighting
- {:en-gb "Electricity and Lighting"
-  :hu-hu "Elektromosság és világítás"}
+ {:label {:en-gb "Electricity and Lighting"
+          :hu-hu "Elektromosság és világítás"}}
 
  :extension-cords-cable-reels-n-distributors
- {:en-gb "Extension Cords, Cable Reels and Distributors"
-  :hu-hu "Hosszabbítók, kábeldobok és elosztók"}
+ {:label {:en-gb "Extension Cords, Cable Reels and Distributors"
+          :hu-hu "Hosszabbítók, kábeldobok és elosztók"}}
 
  :exterior-lighting
- {:en-gb "Exterior Lighting"
-  :hu-hu "Kültéri világítás"}
+ {:label {:en-gb "Exterior Lighting"
+          :hu-hu "Kültéri világítás"}}
 
  :torches
- {:en-gb "Torches"
-  :hu-hu "Zseblámpák"}
+ {:label {:en-gb "Torches"
+          :hu-hu "Zseblámpák"}}
 
  :fog-lamps
- {:en-gb "Fog Lamps"
-  :hu-hu "Ködlámpák"}
+ {:label {:en-gb "Fog Lamps"
+          :hu-hu "Ködlámpák"}}
 
  :fuel-cells
- {:en-gb "Fuel Cells"
-  :hu-hu "Üzemanyagcellák"}
+ {:label {:en-gb "Fuel Cells"
+          :hu-hu "Üzemanyagcellák"}}
 
  :headlamps
- {:en-gb "Headlamps"
-  :hu-hu "Fejlámpák"}
+ {:label {:en-gb "Headlamps"
+          :hu-hu "Fejlámpák"}}
 
  :high-voltage-electrical-system
- {:en-gb "High Voltage Electrical System"
-  :hu-hu "Erősáramú elektromos rendszer"}
+ {:label {:en-gb "High Voltage Electrical System"
+          :hu-hu "Erősáramú elektromos rendszer"}}
 
  :interior-lighting
- {:en-gb "Interior Lighting"
-  :hu-hu "Beltéri világítás"}
+ {:label {:en-gb "Interior Lighting"
+          :hu-hu "Beltéri világítás"}}
 
  :inverters
- {:en-gb "Inverters"
-  :hu-hu "Inverterek"}
+ {:label {:en-gb "Inverters"
+          :hu-hu "Inverterek"}}
 
  :lamp-covers
- {:en-gb "Lamp Covers"
-  :hu-hu "Lámpabúrák"}
+ {:label {:en-gb "Lamp Covers"
+          :hu-hu "Lámpabúrák"}}
 
  :lamps-n-lighting
- {:en-gb "Lamps and Lighting"
-  :hu-hu "Lámpák és világítás"}
+ {:label {:en-gb "Lamps and Lighting"
+          :hu-hu "Lámpák és világítás"}}
 
  :license-plate-lamps
- {:en-gb "License Plate Lamps"
-  :hu-hu "Rendszámtábla megvilágító lámpák"}
+ {:label {:en-gb "License Plate Lamps"
+          :hu-hu "Rendszámtábla megvilágító lámpák"}}
 
  :low-voltage-electrical-system
- {:en-gb "Low Voltage Electrical System"
-  :hu-hu "Gyengeáramú elektromos rendszer"}
+ {:label {:en-gb "Low Voltage Electrical System"
+          :hu-hu "Gyengeáramú elektromos rendszer"}}
 
  :portable-energy-storage
- {:en-gb "Portable Energy Storage"
-  :hu-hu "Hordozható energiatárolók"}
+ {:label {:en-gb "Portable Energy Storage"
+          :hu-hu "Hordozható energiatárolók"}}
 
  :portable-generators
- {:en-gb "Portable Generators"
-  :hu-hu "Hordozható áramfejlesztők"}
+ {:label {:en-gb "Portable Generators"
+          :hu-hu "Hordozható áramfejlesztők"}}
 
  :position-n-marker-lamps
- {:en-gb "Position and Marker Lamps"
-  :hu-hu "Helyzetjelző és pozíció lámpák"}
+ {:label {:en-gb "Position and Marker Lamps"
+          :hu-hu "Helyzetjelző és pozíció lámpák"}}
 
  :protective-equipment
- {:en-gb "Protective Equipment"
-  :hu-hu "Védőberendezések"}
+ {:label {:en-gb "Protective Equipment"
+          :hu-hu "Védőberendezések"}}
 
  :rear-lamps
- {:en-gb "Rear Lamps"
-  :hu-hu "Hátsó lámpák"}
+ {:label {:en-gb "Rear Lamps"
+          :hu-hu "Hátsó lámpák"}}
 
  :reflectors
- {:en-gb "Reflectors"
-  :hu-hu "Prizmák"}
+ {:label {:en-gb "Reflectors"
+          :hu-hu "Prizmák"}}
 
  :reversing-lamps
- {:en-gb "Reversing Lamps"
-  :hu-hu "Tolatólámpák"}
+ {:label {:en-gb "Reversing Lamps"
+          :hu-hu "Tolatólámpák"}}
 
  :side-marker-lamps
- {:en-gb "Side Marker Lamps"
-  :hu-hu "Oldaljelző lámpák"}
+ {:label {:en-gb "Side Marker Lamps"
+          :hu-hu "Oldaljelző lámpák"}}
 
  :solar-accessories
- {:en-gb "Solar Accessories"
-  :hu-hu "Napelem tartozékok"}
+ {:label {:en-gb "Solar Accessories"
+          :hu-hu "Napelem tartozékok"}}
 
  :solar-charge-controllers
- {:en-gb "Solar Charge Controllers"
-  :hu-hu "Napelem töltésvezérlők"}
+ {:label {:en-gb "Solar Charge Controllers"
+          :hu-hu "Napelem töltésvezérlők"}}
 
  :solar-kits
- {:en-gb "Solar Kits"
-  :hu-hu "Napelem szettek"}
+ {:label {:en-gb "Solar Kits"
+          :hu-hu "Napelem szettek"}}
 
  :solar-panels
- {:en-gb "Solar Panels"
-  :hu-hu "Napelem modulok"}
+ {:label {:en-gb "Solar Panels"
+          :hu-hu "Napelem modulok"}}
 
  :solar-systems
- {:en-gb "Solar Systems"
-  :hu-hu "Napelemes rendszerek"}
+ {:label {:en-gb "Solar Systems"
+          :hu-hu "Napelemes rendszerek"}}
 
  :switches-n-sockets
- {:en-gb "Switches and Sockets"
-  :hu-hu "Kapcsolók és aljzatok"}
+ {:label {:en-gb "Switches and Sockets"
+          :hu-hu "Kapcsolók és aljzatok"}}
 
  :tent-lamps
- {:en-gb "Tent Lamps"
-  :hu-hu "Sátorlámpák"}
+ {:label {:en-gb "Tent Lamps"
+          :hu-hu "Sátorlámpák"}}
 
  :turn-signal-lamps
- {:en-gb "Turn Signal Lamps"
-  :hu-hu "Irányjelző lámpák"}
+ {:label {:en-gb "Turn Signal Lamps"
+          :hu-hu "Irányjelző lámpák"}}
 
  :vehicle-electrics
- {:en-gb "Vehicle Electrics"
-  :hu-hu "Járműelektromosság"}
+ {:label {:en-gb "Vehicle Electrics"
+          :hu-hu "Járműelektromosság"}}
 
  :vehicle-lighting-n-lamps
- {:en-gb "Vehicle Lighting and Lamps"
-  :hu-hu "Járművilágítás és lámpák"}
+ {:label {:en-gb "Vehicle Lighting and Lamps"
+          :hu-hu "Járművilágítás és lámpák"}}
 
  :work-lamps
- {:en-gb "Work Lamps"
-  :hu-hu "Munkalámpák"}}
+ {:label {:en-gb "Work Lamps"
+          :hu-hu "Munkalámpák"}}}

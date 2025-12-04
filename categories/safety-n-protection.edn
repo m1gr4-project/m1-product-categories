@@ -1,20 +1,20 @@
 
 {:alarms-n-sensors
- {:en-gb "Alarms and Sensors"
-  :hu-hu "Riasztók és érzékelők"}
+ {:label {:en-gb "Alarms and Sensors"
+          :hu-hu "Riasztók és érzékelők"}}
 
  :anti-burglary-equipment
- {:en-gb "Anti-Burglary Equipment"
-  :hu-hu "Betörés elleni védelem"}
+ {:label {:en-gb "Anti-Burglary Equipment"
+          :hu-hu "Betörés elleni védelem"}}
 
  :anti-theft-equipment
- {:en-gb "Anti-Theft Equipment"
-  :hu-hu "Lopás elleni védelem"}
+ {:label {:en-gb "Anti-Theft Equipment"
+          :hu-hu "Lopás elleni védelem"}}
 
  :cargo-securing
- {:en-gb "Cargo Securing"
-  :hu-hu "Rakományrögzítés"}
+ {:label {:en-gb "Cargo Securing"
+          :hu-hu "Rakományrögzítés"}}
 
  :safety-n-protection
- {:en-gb "Safety and Protection"
-  :hu-hu "Biztonság és védelem"}}
+ {:label {:en-gb "Safety and Protection"
+          :hu-hu "Biztonság és védelem"}}}

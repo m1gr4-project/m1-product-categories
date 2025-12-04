@@ -1,20 +1,20 @@
 
 {:cabinets
- {:en-gb "Cabinets"
-  :hu-hu "Szekrények"}
+ {:label {:en-gb "Cabinets"
+          :hu-hu "Szekrények"}}
 
  :camping-furniture
- {:en-gb "Camping Furniture"
-  :hu-hu "Kempingbútorok"}
+ {:label {:en-gb "Camping Furniture"
+          :hu-hu "Kempingbútorok"}}
 
  :chairs
- {:en-gb "Chairs"
-  :hu-hu "Székek"}
+ {:label {:en-gb "Chairs"
+          :hu-hu "Székek"}}
 
  :childrens-furniture
- {:en-gb "Childrens Furniture"
-  :hu-hu "Gyerekbútorok"}
+ {:label {:en-gb "Childrens Furniture"
+          :hu-hu "Gyerekbútorok"}}
 
  :tables
- {:en-gb "Tables"
-  :hu-hu "Asztalok"}}
+ {:label {:en-gb "Tables"
+          :hu-hu "Asztalok"}}}
