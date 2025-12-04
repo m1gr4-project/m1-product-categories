@@ -63,36 +63,36 @@
  {:en-gb "Tool Boxes"
   :hu-hu "Szerszámosládák"}
 
- :tow-bar-tow-head-n-tow-hook
- {:en-gb "Tow Bar, Tow Head and Tow Hook"
+ :tow-bar-tow-hitch-n-tow-ball
+ {:en-gb "Tow Bar, Tow Hitch and Tow Ball"
   :hu-hu "Vonórúd, vonófej és vonóhorog"}
 
- :tow-head-accessories
- {:en-gb "Tow Head Accessories"
+ :tow-hitch-accessories
+ {:en-gb "Tow Hitch Accessories"
   :hu-hu "Vonófejtartozékok"}
 
- :tow-head-components
- {:en-gb "Tow Head Components"
+ :tow-hitch-components
+ {:en-gb "Tow Hitch Components"
   :hu-hu "Vonófejalkatrészek"}
 
- :tow-head-covers
- {:en-gb "Tow Head Covers"
+ :tow-hitch-covers
+ {:en-gb "Tow Hitch Covers"
   :hu-hu "Vonófejtakarók"}
 
- :tow-head-locks
- {:en-gb "Tow Head Locks"
+ :tow-hitch-locks
+ {:en-gb "Tow Hitch Locks"
   :hu-hu "Vonófejzárak"}
 
- :tow-head-scales
- {:en-gb "Tow Head Scales"
+ :tow-hitch-scales
+ {:en-gb "Tow Hitch Scales"
   :hu-hu "Vonófejmérlegek"}
 
- :tow-heads
- {:en-gb "Tow Heads"
+ :tow-hitches
+ {:en-gb "Tow Hitches"
   :hu-hu "Vonófejek"}
 
- :tow-hooks
- {:en-gb "Tow Hooks"
+ :tow-balls
+ {:en-gb "Tow Balls"
   :hu-hu "Vonóhorgok"}
 
  :trailer-body-locks
