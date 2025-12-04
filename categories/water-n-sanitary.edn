@@ -1,0 +1,156 @@
+{
+ :bathroom-equipment
+ {:en-en "Bathroom Equipment"
+  :hu-hu "Fürdőszoba felszerelés"}
+
+ :built-in-toilets
+ {:en-en "Built-in Toilets"
+  :hu-hu "Beépített WC-k"}
+
+ :drainage-systems
+ {:en-en "Drainage Systems"
+  :hu-hu "Lefolyórendszerek"}
+
+ :faucet-ceramic-inserts
+ {:en-en "Faucet Ceramic Inserts"
+  :hu-hu "Csaptelep kerámiabetétek"}
+
+ :faucets
+ {:en-en "Faucets"
+  :hu-hu "Csaptelepek"}
+
+ :frost-protection
+ {:en-en "Frost Protection"
+  :hu-hu "Fagyás elleni védelem"}
+
+ :garden-hoses-n-accessories
+ {:en-en "Garden Hoses and Accessories"
+  :hu-hu "Kerti tömlők és tartozékaik"}
+
+ :grey-water-discharge
+ {:en-en "Grey Water Discharge"
+  :hu-hu "Szürkevíz-leeresztés"}
+
+ :grey-water-tanks
+ {:en-en "Grey Water Tanks"
+  :hu-hu "Szürkevíz-tartályok"}
+
+ :outdoor-showers
+ {:en-en "Outdoor Showers"
+  :hu-hu "Kültéri zuhanyok"}
+
+ :plumbing-fittings
+ {:en-en "Plumbing Fittings"
+  :hu-hu "Csőrendszer szerelvények"}
+
+ :plumbing-fittings-quick-connect
+ {:en-en "Plumbing Fittings Quick Connect"
+  :hu-hu "Csőrendszer szerelvények (gyorscsatlakozós)"}
+
+ :portable-containers
+ {:en-en "Portable Containers"
+  :hu-hu "Hordozható tartályok"}
+
+ :portable-toilets
+ {:en-en "Portable Toilets"
+  :hu-hu "Hordozható WC-k"}
+
+ :sanitary-supplies
+ {:en-en "Sanitary Supplies"
+  :hu-hu "Szaniterkellékek"}
+
+ :sanitary-supplies-chemical-free
+ {:en-en "Sanitary Supplies Chemical-Free"
+  :hu-hu "Szaniterkellékek (vegyszermentes)"}
+
+ :shower-trays
+ {:en-en "Shower Trays"
+  :hu-hu "Zuhanytálcák"}
+
+ :sinks
+ {:en-en "Sinks"
+  :hu-hu "Mosogatók"}
+
+ :solar-showers
+ {:en-en "Solar Showers"
+  :hu-hu "Szolár zuhanyok"}
+
+ :toilet-accessories
+ {:en-en "Toilet Accessories"
+  :hu-hu "WC tartozékok"}
+
+ :toilet-ventilation
+ {:en-en "Toilet Ventilation"
+  :hu-hu "WC szellőztetés"}
+
+ :toilets-n-accessories
+ {:en-en "Toilets and Accessories"
+  :hu-hu "WC-k és tartozékaik"}
+
+ :washbasins
+ {:en-en "Washbasins"
+  :hu-hu "Mosdók"}
+
+ :water-can-accessories
+ {:en-en "Water Can Accessories"
+  :hu-hu "Vizeskanna tartozékok"}
+
+ :water-cans-n-buckets
+ {:en-en "Water Cans and Buckets"
+  :hu-hu "Vizeskannák és vödrök"}
+
+ :water-connection
+ {:en-en "Water Connection"
+  :hu-hu "Vízcsatlakozás"}
+
+ :water-filtration
+ {:en-en "Water Filtration"
+  :hu-hu "Vízszűrés"}
+
+ :water-heaters
+ {:en-en "Water Heaters"
+  :hu-hu "Vízmelegítő készülékek"}
+
+ :water-heating
+ {:en-en "Water Heating"
+  :hu-hu "Vízmelegítés"}
+
+ :water-hoses-n-pipes
+ {:en-en "Water Hoses and Pipes"
+  :hu-hu "Víztömlők és csövek"}
+
+ :water-level-indicators
+ {:en-en "Water Level Indicators"
+  :hu-hu "Vízszintjelzők"}
+
+ :water-n-sanitary
+ {:en-en "Water and Sanitary"
+  :hu-hu "Víz és szaniter"}
+
+ :water-pumps
+ {:en-en "Water Pumps"
+  :hu-hu "Vízszivattyúk"}
+
+ :water-system
+ {:en-en "Water System"
+  :hu-hu "Vízrendszer"}
+
+ :water-tank-accessories
+ {:en-en "Water Tank Accessories"
+  :hu-hu "Víztartály tartozékok"}
+
+ :water-tanks
+ {:en-en "Water Tanks"
+  :hu-hu "Víztartályok"}
+
+ :water-transport
+ {:en-en "Water Transport"
+  :hu-hu "Vízszállítás"}
+
+ :water-treatment
+ {:en-en "Water Treatment"
+  :hu-hu "Vízkezelés"}
+
+ :water-treatment-n-preservation
+ {:en-en "Water Treatment and Preservation"
+  :hu-hu "Vízkezelés és tartósítás"}}

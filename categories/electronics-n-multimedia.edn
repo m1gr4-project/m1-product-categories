@@ -1,4 +1,60 @@
+{
+ :car-audio-accessories
+ {:en-en "Car Audio Accessories"
+  :hu-hu "Autóhifi tartozékok"}
 
-{:electronics-n-multimedia
+ :car-audio-head-units
+ {:en-en "Car Audio Head Units"
+  :hu-hu "Autóhifi fejegységek"}
+
+ :car-audio-n-navigation
+ {:en-en "Car Audio and Navigation"
+  :hu-hu "Autóhifi és navigáció"}
+
+ :electronics-n-multimedia
  {:en-en "Electronics and Multimedia"
-  :hu-hu "Műszaki cikk és multimédia"}}
+  :hu-hu "Műszaki cikk és multimédia"}
+
+ :household-appliances
+ {:en-en "Household Appliances"
+  :hu-hu "Háztartási gépek"}
+
+ :navigation-accessories
+ {:en-en "Navigation Accessories"
+  :hu-hu "Navigációs tartozékok"}
+
+ :navigation-devices
+ {:en-en "Navigation Devices"
+  :hu-hu "Navigációs készülékek"}
+
+ :satellite-accessories
+ {:en-en "Satellite Accessories"
+  :hu-hu "Műholdvevő tartozékok"}
+
+ :satellite-antennas
+ {:en-en "Satellite Antennas"
+  :hu-hu "Műholdvevő antennák"}
+
+ :satellite-receiver-kits
+ {:en-en "Satellite Receiver Kits"
+  :hu-hu "Műholdvevő szettek"}
+
+ :satellite-systems
+ {:en-en "Satellite Systems"
+  :hu-hu "Műholdas rendszerek"}
+
+ :tv-devices
+ {:en-en "TV Devices"
+  :hu-hu "TV készülékek"}
+
+ :tv-mounts
+ {:en-en "TV Mounts"
+  :hu-hu "TV tartók (konzolok)"}
+
+ :tv-n-audio
+ {:en-en "TV and Audio"
+  :hu-hu "TV és audió"}
+
+ :tv-speakers
+ {:en-en "TV Speakers"
+  :hu-hu "TV hangszórók"}}

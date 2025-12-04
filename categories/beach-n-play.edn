@@ -1,4 +1,56 @@
+{
+ :beach-accessories
+ {:en-en "Beach Accessories"
+  :hu-hu "Strand kellékek"}
 
-{:beach-n-play
+ :beach-blankets
+ {:en-en "Beach Blankets"
+  :hu-hu "Strandplédek"}
+
+ :beach-carts
+ {:en-en "Beach Carts"
+  :hu-hu "Strandkocsik"}
+
+ :beach-chairs
+ {:en-en "Beach Chairs"
+  :hu-hu "Strandszékek"}
+
+ :beach-n-play
  {:en-en "Beach and Play"
-  :hu-hu "Strand és játék"}}
+  :hu-hu "Strand és játék"}
+
+ :beach-tents
+ {:en-en "Beach Tents"
+  :hu-hu "Strandsátrak"}
+
+ :beach-toys
+ {:en-en "Beach Toys"
+  :hu-hu "Strandjátékok"}
+
+ :inflatable-boats
+ {:en-en "Inflatable Boats"
+  :hu-hu "Felfújható csónakok"}
+
+ :inflatable-mattresses
+ {:en-en "Inflatable Mattresses"
+  :hu-hu "Felfújható matracok"}
+
+ :inflatable-pools
+ {:en-en "Inflatable Pools"
+  :hu-hu "Felfújható medencék"}
+
+ :inflatable-products
+ {:en-en "Inflatable Products"
+  :hu-hu "Felfújható termékek"}
+
+ :inflatable-toys
+ {:en-en "Inflatable Toys"
+  :hu-hu "Felfújható játékok"}
+
+ :parasols-n-windbreaks
+ {:en-en "Parasols and Windbreaks"
+  :hu-hu "Napernyők és szélfogók"}
+
+ :pumps-n-compressors
+ {:en-en "Pumps and Compressors"
+  :hu-hu "Pumpák és kompresszorok"}}

@@ -1,0 +1,120 @@
+{
+ :caravan-body-locks
+ {:en-en "Caravan Body Locks"
+  :hu-hu "Lakókocsi felépítményzárak"}
+
+ :cargo-securing
+ {:en-en "Cargo Securing"
+  :hu-hu "Rakományrögzítés"}
+
+ :cargo-securing-systems
+ {:en-en "Cargo Securing Systems"
+  :hu-hu "Rakományrögzítő rendszerek"}
+
+ :chassis-n-body
+ {:en-en "Chassis and Body"
+  :hu-hu "Alváz és felépítmény"}
+
+ :chocks-n-chock-holders
+ {:en-en "Chocks and Chock Holders"
+  :hu-hu "Ékek és éktartók"}
+
+ :complete-wheels
+ {:en-en "Complete Wheels"
+  :hu-hu "Komplett kerekek"}
+
+ :fenders
+ {:en-en "Fenders"
+  :hu-hu "Sárvédők"}
+
+ :jacks
+ {:en-en "Jacks"
+  :hu-hu "Emelők"}
+
+ :locks-n-protection
+ {:en-en "Locks and Protection"
+  :hu-hu "Zárak és védelem"}
+
+ :safety-accessories
+ {:en-en "Safety Accessories"
+  :hu-hu "Biztonsági kiegészítők"}
+
+ :securing-nets
+ {:en-en "Securing Nets"
+  :hu-hu "Rögzítőhálók"}
+
+ :shock-absorbers
+ {:en-en "Shock Absorbers"
+  :hu-hu "Lengéscsillapítók"}
+
+ :straps-n-tensioners
+ {:en-en "Straps and Tensioners"
+  :hu-hu "Hevederek és spaniferek"}
+
+ :support-legs
+ {:en-en "Support Legs"
+  :hu-hu "Támasztólábak"}
+
+ :tires
+ {:en-en "Tires"
+  :hu-hu "Gumiabroncsok"}
+
+ :tool-boxes
+ {:en-en "Tool Boxes"
+  :hu-hu "Szerszámosládák"}
+
+ :tow-bar-tow-head-n-tow-hook
+ {:en-en "Tow Bar, Tow Head and Tow Hook"
+  :hu-hu "Vonórúd, vonófej és vonóhorog"}
+
+ :tow-head-accessories
+ {:en-en "Tow Head Accessories"
+  :hu-hu "Vonófejtartozékok"}
+
+ :tow-head-components
+ {:en-en "Tow Head Components"
+  :hu-hu "Vonófejalkatrészek"}
+
+ :tow-head-covers
+ {:en-en "Tow Head Covers"
+  :hu-hu "Vonófejtakarók"}
+
+ :tow-head-locks
+ {:en-en "Tow Head Locks"
+  :hu-hu "Vonófejzárak"}
+
+ :tow-head-scales
+ {:en-en "Tow Head Scales"
+  :hu-hu "Vonófejmérlegek"}
+
+ :tow-heads
+ {:en-en "Tow Heads"
+  :hu-hu "Vonófejek"}
+
+ :tow-hooks
+ {:en-en "Tow Hooks"
+  :hu-hu "Vonóhorgok"}
+
+ :trailer-body-locks
+ {:en-en "Trailer Body Locks"
+  :hu-hu "Utánfutó felépítményzárak"}
+
+ :trailer-n-caravan
+ {:en-en "Trailer and Caravan"
+  :hu-hu "Utánfutó és lakókocsi"}
+
+ :trailer-platform-locks
+ {:en-en "Trailer Platform Locks"
+  :hu-hu "Utánfutó platózárak"}
+
+ :wheel-rims
+ {:en-en "Wheel Rims"
+  :hu-hu "Felnik (keréktárcsák)"}
+
+ :wheels-n-tires
+ {:en-en "Wheels and Tires"
+  :hu-hu "Kerekek és gumiabroncsok"}
+
+ :winches
+ {:en-en "Winches"
+  :hu-hu "Csörlők"}}

@@ -1,14 +1,14 @@
-
-{:alarms-n-sensors
+{
+ :alarms-n-sensors
  {:en-en "Alarms and Sensors"
   :hu-hu "Riasztók és érzékelők"}
 
  :anti-burglary-equipment
- {:en-en "Anti-burglary Equipment"
+ {:en-en "Anti-Burglary Equipment"
   :hu-hu "Betörés elleni védelem"}
 
  :anti-theft-equipment
- {:en-en "Anti-theft Equipment"
+ {:en-en "Anti-Theft Equipment"
   :hu-hu "Lopás elleni védelem"}
 
  :cargo-securing

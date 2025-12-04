@@ -1,4 +1,8 @@
+{
+ :maintenance-n-repair
+ {:en-en "Maintenance and Repair"
+  :hu-hu "Karbantartás és javítás"}
 
-{:tents-n-awnings
+ :tents-n-awnings
  {:en-en "Tents and Awnings"
   :hu-hu "Sátrak és árnyékolók"}}
