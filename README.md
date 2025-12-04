@@ -1,3 +1,3 @@
 
 # m1-product-categories
-Multilingual dictionary of product category names for building category maps in the M1GR4 project.
+Multilingual product category name catalog for the M1GR4 project.
