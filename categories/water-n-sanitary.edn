@@ -44,7 +44,7 @@
   :hu-hu "Csőrendszer szerelvények"}
 
  :plumbing-fittings-quick-connect
- {:en-gb "Plumbing Fittings Quick Connect"
+ {:en-gb "Plumbing Fittings (Quick Connect)"
   :hu-hu "Csőrendszer szerelvények (gyorscsatlakozós)"}
 
  :portable-containers
@@ -60,7 +60,7 @@
   :hu-hu "Szaniterkellékek"}
 
  :sanitary-supplies-chemical-free
- {:en-gb "Sanitary Supplies Chemical-Free"
+ {:en-gb "Sanitary Supplies (Chemical-Free)"
   :hu-hu "Szaniterkellékek (vegyszermentes)"}
 
  :shower-trays
